@@ -4,3 +4,5 @@
 *.info
 *.tar.gz
 *.rpm
+*.a
+
