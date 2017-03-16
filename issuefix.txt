@@ -1,2 +1,5 @@
 Issue will be fixed in next commit
 
+Abra-cadabra, alakazam!
+Issue fixed!
+
