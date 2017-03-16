@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 
 Nothing to fix here
+=======
+Nothing ti fix here
+
+Issue will be fixed in next commit
+
+Abra-cadabra, alakazam!
+Issue fixed!
+
+>>>>>>> issue1
