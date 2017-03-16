@@ -1,4 +1,4 @@
-Nothing ti fix here
+Nothing to fix here
 
 Issue will be fixed in next commit
 
