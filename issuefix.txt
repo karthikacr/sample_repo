@@ -1,1 +1,9 @@
-Issue 3 fixed
+Nothing to fix here
+
+Issue will be fixed in next commit
+
+Abra-cadabra, alakazam!
+Issue fixed!
+
+There, the issue is fixed
+
