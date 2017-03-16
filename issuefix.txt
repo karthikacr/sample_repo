@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-Nothing to fix here
-=======
 Nothing ti fix here
 
 Issue will be fixed in next commit
@@ -11,7 +6,4 @@ Abra-cadabra, alakazam!
 Issue fixed!
 
 There, the issue is fixed
->>>>>>> issue1
-=======
-There, the issue is fixed!
->>>>>>> issue2
+
